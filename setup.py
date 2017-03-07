@@ -20,7 +20,7 @@ setup(
     long_description=long_description,
     keywords='certbot letsencrypt ssl certificate https secure encrypt encryption',
 
-    url='https://github.com/jaddison',
+    url='https://github.com/jaddison/certbot_py',
 
     author='jaddison',
     author_email='addi00+github.com@gmail.com',
